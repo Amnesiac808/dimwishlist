@@ -1,4 +1,4 @@
-title:Equipment for Boss Damage
+title:Weapons for Boss Damage
 description:The weapons you need for DPS. Taken from the spreadsheet created by Aegis.
 
 // Apex Predator - 1: best in role, must-have ()
