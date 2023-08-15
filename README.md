@@ -1,53 +1,44 @@
-# dimwishlists
+# Aegis DIM Wishlists
 
-Speed Running Shopping List:
-https://raw.githubusercontent.com/Amnesiac808/dimwishlist/main/Speedrunner's_Shopping_List_(Aegis).txt
+Welcome! This guide will help you integrate these custom wishlists into your Destiny Item Manager (DIM).
 
-Weapons for Boss Damage:
-https://raw.githubusercontent.com/Amnesiac808/dimwishlist/main/Equipment%20for%20Boss%20Damage%20(Aegis).txt
+## Wishlists
 
+- **Weapons for Boss Damage**: [View Wishlist](https://raw.githubusercontent.com/Amnesiac808/dimwishlist/main/Weapons_for_Boss_Damage_(Aegis).txt)
+  
+- **Speed Running Shopping List**: [View Wishlist](https://raw.githubusercontent.com/Amnesiac808/dimwishlist/main/Speedrunner's_Shopping_List_(Aegis).txt)
 
-# Steps to Add Custom Wishlists to DIM
+## How to Add Custom Wishlists to DIM
 
-Open Destiny Item Manager
+1. **Accessing DIM Settings**:
+   - Open [Destiny Item Manager](https://app.destinyitemmanager.com/).
+   - Click on the gear icon (usually located in the top right corner) to access the DIM settings.
 
-Look for the gear icon (usually located in the top right corner) and click on it. This will take you to the DIM settings.
+2. **Navigating to Wishlists**:
+   - Scroll until you find the "Wish Lists" section.
 
-Scroll down until you find a section labeled "Wish Lists".
+3. **Using an External Source for Wishlists**:
+   - Paste the following links into the provided textbox. Ensure the URLs are separated by the `|` character:
+     ```
+     https://raw.githubusercontent.com/Amnesiac808/dimwishlist/main/Weapons_for_Boss_Damage_(Aegis).txt|
+     https://raw.githubusercontent.com/Amnesiac808/dimwishlist/main/Speedrunner's_Shopping_List_(Aegis).txt
+     ```
+   - If you prefer to use the wishlists individually, you can paste either link alone without the | separator.  
+   - Note: It's crucial that these wishlists are hosted on GitHub as DIM primarily trusts wishlists from this platform.
 
-# Using an External Source:
+4. **Updating and Activating the Wishlists**:
+   - Click "update wishlist source" below the textbox.
+   - You may need to refresh DIM for the changes to take effect. Once activated, wishlist items in your inventory will be highlighted with a green thumbs-up icon.
+   - To find items from your wishlist, use the search term `is:wishlist` in DIM.
 
-In the provided text box, you can input the direct links to the wishlist files hosted on GitHub.
-It's essential that these wishlists are hosted on GitHub, as DIM trusts GitHub as a source and might not load wishlists from other platforms.
+5. **Tips**:
+   - For items with specific notes (e.g., "gambit"), use the search term `wishlistnotes:gambit`.
+   - To reset and clear all wishlists, click "clear wish lists".
 
-# Inputting Your Wishlist URLs
+For more detailed information on DIM wishlists, visit the [official DIM wishlist guide](https://github.com/DestinyItemManager/DIM/wiki/Wish-Lists).
 
-For these specific wishlists, you can copy this input:
+## Source of Wishlists
 
-https://raw.githubusercontent.com/Amnesiac808/dimwishlist/main/Speedrunner's_Shopping_List_(Aegis).txt|https://raw.githubusercontent.com/Amnesiac808/dimwishlist/main/Equipment%20for%20Boss%20Damage%20(Aegis).txt
-
-Make sure the URLs are separated by the "|" character.
-
-Click update wishlist source below the textbox.
-
-# Saving and Using Your Wishlists
-
-After inputting the URLs, you might need to save or refresh DIM for the wishlists to take effect.
-Once loaded, any items in your inventory that match the criteria of your wishlist will have a green thumbs-up icon.
-To quickly search for wishlist items in DIM, you can use the Item Search: is:wishlist.
-
-# Additional Tips:
-
-If your wishlist has specific notes (e.g., "gambit"), you can search for them using wishlistnotes:gambit.
-Clicking "clear wish lists" will remove both the file and external source, so use this option if you want to start over.
-
-more information can be found here:
-https://github.com/DestinyItemManager/DIM/wiki/Wish-Lists
-
-# Source
-
-Equipment for Boss Damage:
-https://docs.google.com/spreadsheets/d/1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4/edit#gid=639621230
-
-Speedrunners Shopping List:
-https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/edit#gid=0
+- **Weapons for Boss Damage**: [Google Sheets](https://docs.google.com/spreadsheets/d/1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4/edit#gid=639621230)
+  
+- **Speedrunners Shopping List**: [Google Sheets](https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/edit#gid=0)
