@@ -7,24 +7,24 @@ dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919
 dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3708227201
 
 
-// Riiswalker - 2: alternate inferior pick / niche ()
-//notes: Filler: Best kinetic lightweight swap option.
-dimwishlist:item=108221785&perks=1300023272,791862061,706527188,1546637391
+// Gjallarhorn - 1: best in role, must-have ()
+//notes: Misc: Most important DPS component in any team.
+dimwishlist:item=1363886209&perks=
 
 
-// Nessa's Oblation - 2: alternate inferior pick / niche ()
-//notes: Filler: Very good slug, just the wrong affinity (no good void rockets right now), pairs well with Tractor.
-dimwishlist:item=135029084&perks=1840239774,791862061,1523832109,1546637391
+// Heritage - 1: best in role, must-have ()
+//notes: Filler: Outperforms Fortissimo until ~7 shots in.
+dimwishlist:item=4248569242&perks=1840239774,791862061,461595545,3335686050
 
 
-// Malfeasance - 3: situational / unnecessary ()
-//notes: Filler: Good situational burst paired with Lucky Pants.
-dimwishlist:item=204878059&perks=
+// Izanagi's Burden - 1: best in role, must-have ()
+//notes: Filler: Loses DPS against shotgun dumping but hone time is great for filling ALH/Recon downtime.
+dimwishlist:item=3211806999&perks=
 
 
-// Nessa's Oblation (Adept) - 2: alternate inferior pick / niche ()
-//notes: Filler: Very good slug, just the wrong affinity (no good void rockets right now), pairs well with Tractor.
-dimwishlist:item=522366885&perks=1840239774,791862061,1523832109,1546637391
+// Parasite - 1: best in role, must-have ()
+//notes: Misc: Pre-shooting projectile into sky and swapping is useful for maximizing burst damage on phase start.
+dimwishlist:item=2812324400&perks=
 
 
 // Sojourner's Tale - 1: best in role, must-have ()
@@ -33,14 +33,65 @@ dimwishlist:item=599895591&perks=1840239774,791862061,3300816228,4104185692
 dimwishlist:item=599895591&perks=1840239774,791862061,3300816228,3708227201
 
 
+// The Fourth Horseman - 1: best in role, must-have ()
+//notes: Filler: Suffers from lack of ALH, but noticeably higher DPS than Izi.
+dimwishlist:item=1665952087&perks=
+
+
+// Tractor Cannon - 1: best in role, must-have ()
+//notes: Misc: Like Apex; most generally applicable debuff, even if specialized option (Felwinter's) exists.
+dimwishlist:item=3580904581&perks=
+
+
+// Wilderflight - 1: best in role, must-have ()
+//notes: Filler: Double fire frame provides a free ~31% boost over lightweights, pushing this thing PAST per shot slug damage.
+dimwishlist:item=2306182339&perks=3525010810,3301904089,3300816228,1546637391
+dimwishlist:item=2306182339&perks=3525010810,3301904089,3300816228,4104185692
+
+
+// Acasia's Dejection - 1: best in role, must-have ()
+dimwishlist:item=1471212226&perks=1840239774,2749775325,1523832109,4104185692
+dimwishlist:item=1471212226&perks=1840239774,2749775325,1523832109,3215448563
+
+
+// Acasia's Dejection (Adept) - 1: best in role, must-have ()
+dimwishlist:item=3493494807&perks=1840239774,2749775325,1523832109,4104185692
+dimwishlist:item=3493494807&perks=1840239774,2749775325,1523832109,3215448563
+
+
 // Cold Comfort - 2: alternate inferior pick / niche ()
 //notes: Main: Specialized for extreme burst in setup-friendly environments.
 dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3078487919,398661035
 
 
-// One Small Step - 3: situational / unnecessary ()
-//notes: Filler: Probably shouldn't even be on this list, and wouldn't be if Until Its Return was kinetic.
-dimwishlist:item=1016668089&perks=1300023272,106909392,3300816228,2360754333
+// Dead Weight - 2: alternate inferior pick / niche ()
+//notes: #2 Filler: Underrated rapid-fire option with ALH, but without enhanced Surrounded.
+dimwishlist:item=3738678140&perks=1300023272,106909392,3300816228,3708227201
+dimwishlist:item=3738678140&perks=1300023272,106909392,3300816228,1546637391
+dimwishlist:item=3738678140&perks=1300023272,106909392,3300816228,2360754333
+dimwishlist:item=3738678140&perks=1300023272,106909392,2869569095,3708227201
+dimwishlist:item=3738678140&perks=1300023272,106909392,2869569095,1546637391
+dimwishlist:item=3738678140&perks=1300023272,106909392,2869569095,2360754333
+
+
+// Distant Tumulus - 2: alternate inferior pick / niche ()
+//notes: Filler: Generally the best rapid-fire DPS sniper.
+dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417
+
+
+// Duality - 2: alternate inferior pick / niche ()
+//notes: Filler: Beats out Frenzy Sojourner's by 10% per shot at the cost of your exotic slot and no ALH.
+dimwishlist:item=3460576091&perks=
+
+
+// Fortissimo-11 - 2: alternate inferior pick / niche ()
+//notes: Filler: Outdone by Heritage given most phase lengths, on top of having a 5 mag.
+dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,4104185692
+dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,1546637391
+dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,3708227201
+dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,4104185692
+dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,1546637391
+dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,3708227201
 
 
 // IKELOS_SG_v1.0.3 - 2: alternate inferior pick / niche ()
@@ -50,14 +101,19 @@ dimwishlist:item=1168625549&perks=1300023272,106909392,1631667848,3751912585
 dimwishlist:item=1168625549&perks=1300023272,106909392,1631667848,1546637391
 
 
-// Gjallarhorn - 1: best in role, must-have ()
-//notes: Misc: Most important DPS component in any team.
-dimwishlist:item=1363886209&perks=
+// Nessa's Oblation - 2: alternate inferior pick / niche ()
+//notes: Filler: Very good slug, just the wrong affinity (no good void rockets right now), pairs well with Tractor.
+dimwishlist:item=135029084&perks=1840239774,791862061,1523832109,1546637391
 
 
-// Acasia's Dejection - 1: best in role, must-have ()
-dimwishlist:item=1471212226&perks=1840239774,2749775325,1523832109,4104185692
-dimwishlist:item=1471212226&perks=1840239774,2749775325,1523832109,3215448563
+// Nessa's Oblation (Adept) - 2: alternate inferior pick / niche ()
+//notes: Filler: Very good slug, just the wrong affinity (no good void rockets right now), pairs well with Tractor.
+dimwishlist:item=522366885&perks=1840239774,791862061,1523832109,1546637391
+
+
+// Riiswalker - 2: alternate inferior pick / niche ()
+//notes: Filler: Best kinetic lightweight swap option.
+dimwishlist:item=108221785&perks=1300023272,791862061,706527188,1546637391
 
 
 // Without Remorse - 2: alternate inferior pick / niche ()
@@ -66,9 +122,60 @@ dimwishlist:item=1478986057&perks=1300023272,791862061,2869569095,1546637391
 dimwishlist:item=1478986057&perks=1300023272,791862061,4071163871,1546637391
 
 
-// The Fourth Horseman - 1: best in role, must-have ()
-//notes: Filler: Suffers from lack of ALH, but noticeably higher DPS than Izi.
-dimwishlist:item=1665952087&perks=
+// Xenoclast IV - 2: alternate inferior pick / niche ()
+//notes: Filler: Interchangeable with Remorse, just harder to farm and doesn't match Apex surge.
+dimwishlist:item=2891672170&perks=1300023272,791862061,3300816228,3708227201
+dimwishlist:item=2891672170&perks=1300023272,791862061,3300816228,1546637391
+dimwishlist:item=2891672170&perks=1300023272,791862061,2869569095,3708227201
+dimwishlist:item=2891672170&perks=1300023272,791862061,2869569095,1546637391
+
+
+// Conditional Finality - 3: situational / unnecessary ()
+//notes: Filler: Good aggressive swap option for a single player.
+dimwishlist:item=3371017761&perks=
+
+
+// Empty Vessel - 3: situational / unnecessary ()
+//notes: Filler: Worse than Wilderflight but doesn't have double fire spread, only saved by surge matching Apex.
+dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,1546637391
+
+
+// IKELOS_SR_v1.0.3 - 3: situational / unnecessary ()
+//notes: Filler: Tumulus equivalent with worse damage perks but Fourth Time's the Charm.
+dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,2213355989
+dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,2896038713
+
+
+// Malfeasance - 3: situational / unnecessary ()
+//notes: Filler: Good situational burst paired with Lucky Pants.
+dimwishlist:item=204878059&perks=
+
+
+// Merciless - 3: situational / unnecessary ()
+//notes: Filler: Niche ammo-restricted burst damage.
+dimwishlist:item=4190156464&perks=
+
+
+// One Small Step - 3: situational / unnecessary ()
+//notes: Filler: Probably shouldn't even be on this list, and wouldn't be if Until Its Return was kinetic.
+dimwishlist:item=1016668089&perks=1300023272,106909392,3300816228,2360754333
+
+
+// Salvager's Salvo - 3: situational / unnecessary ()
+//notes: Filler: Used rarely in grenade DPS rotations while waiting for rocket downtime.
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
+
+
+// The Supremacy - 3: situational / unnecessary ()
+//notes: Filler: The only refreshable ranged legendary burst option in its slot.
+Dimwishlist:item=2884596447&perks=1840239774,108742626,3418782618,3891536761
+
+
+// Until Its Return - 3: situational / unnecessary ()
+//notes: Filler: Would've been really good if it was kinetic.
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3708227201
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3751912585
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,1546637391
 
 
 // Wastelander M5 - 3: situational / unnecessary ()
@@ -83,114 +190,7 @@ dimwishlist:item=1679868061&perks=1300023272,791862061,3722653512,1546637391
 dimwishlist:item=1679868061&perks=1300023272,791862061,691659142,1546637391
 
 
-// Salvager's Salvo - 3: situational / unnecessary ()
-//notes: Filler: Used rarely in grenade DPS rotations while waiting for rocket downtime.
-dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
-
-
-// IKELOS_SR_v1.0.3 - 3: situational / unnecessary ()
-//notes: Filler: Tumulus equivalent with worse damage perks but Fourth Time's the Charm.
-dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,2213355989
-dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,2896038713
-
-
-// Wilderflight - 1: best in role, must-have ()
-//notes: Filler: Double fire frame provides a free ~31% boost over lightweights, pushing this thing PAST per shot slug damage.
-dimwishlist:item=2306182339&perks=3525010810,3301904089,3300816228,1546637391
-dimwishlist:item=2306182339&perks=3525010810,3301904089,3300816228,4104185692
-
-
 // Witherhoard - 3: situational / unnecessary ()
 //notes: Filler: Mostly phased out in team DPS settings where options like Izi do more damage and can be stacked.
 dimwishlist:item=2357297366&perks=
-
-
-// Distant Tumulus - 2: alternate inferior pick / niche ()
-//notes: Filler: Generally the best rapid-fire DPS sniper.
-dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417
-
-
-// Parasite - 1: best in role, must-have ()
-//notes: Misc: Pre-shooting projectile into sky and swapping is useful for maximizing burst damage on phase start.
-dimwishlist:item=2812324400&perks=
-
-
-// Fortissimo-11 - 2: alternate inferior pick / niche ()
-//notes: Filler: Outdone by Heritage given most phase lengths, on top of having a 5 mag.
-dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,4104185692
-dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,1546637391
-dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,3708227201
-dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,4104185692
-dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,1546637391
-dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,3708227201
-
-
-// Until Its Return - 3: situational / unnecessary ()
-//notes: Filler: Would've been really good if it was kinetic.
-dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3708227201
-dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3751912585
-dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,1546637391
-
-
-// Xenoclast IV - 2: alternate inferior pick / niche ()
-//notes: Filler: Interchangeable with Remorse, just harder to farm and doesn't match Apex surge.
-dimwishlist:item=2891672170&perks=1300023272,791862061,3300816228,3708227201
-dimwishlist:item=2891672170&perks=1300023272,791862061,3300816228,1546637391
-dimwishlist:item=2891672170&perks=1300023272,791862061,2869569095,3708227201
-dimwishlist:item=2891672170&perks=1300023272,791862061,2869569095,1546637391
-
-
-// Izanagi's Burden - 1: best in role, must-have ()
-//notes: Filler: Loses DPS against shotgun dumping but hone time is great for filling ALH/Recon downtime.
-dimwishlist:item=3211806999&perks=
-
-
-// Conditional Finality - 3: situational / unnecessary ()
-//notes: Filler: Good aggressive swap option for a single player.
-dimwishlist:item=3371017761&perks=
-
-
-// Duality - 2: alternate inferior pick / niche ()
-//notes: Filler: Beats out Frenzy Sojourner's by 10% per shot at the cost of your exotic slot and no ALH.
-dimwishlist:item=3460576091&perks=
-
-
-// Acasia's Dejection (Adept) - 1: best in role, must-have ()
-dimwishlist:item=3493494807&perks=1840239774,2749775325,1523832109,4104185692
-dimwishlist:item=3493494807&perks=1840239774,2749775325,1523832109,3215448563
-
-
-// Tractor Cannon - 1: best in role, must-have ()
-//notes: Misc: Like Apex; most generally applicable debuff, even if specialized option (Felwinter's) exists.
-dimwishlist:item=3580904581&perks=
-
-
-// Dead Weight - 2: alternate inferior pick / niche ()
-//notes: #2 Filler: Underrated rapid-fire option with ALH, but without enhanced Surrounded.
-dimwishlist:item=3738678140&perks=1300023272,106909392,3300816228,3708227201
-dimwishlist:item=3738678140&perks=1300023272,106909392,3300816228,1546637391
-dimwishlist:item=3738678140&perks=1300023272,106909392,3300816228,2360754333
-dimwishlist:item=3738678140&perks=1300023272,106909392,2869569095,3708227201
-dimwishlist:item=3738678140&perks=1300023272,106909392,2869569095,1546637391
-dimwishlist:item=3738678140&perks=1300023272,106909392,2869569095,2360754333
-
-
-// Merciless - 3: situational / unnecessary ()
-//notes: Filler: Niche ammo-restricted burst damage.
-dimwishlist:item=4190156464&perks=
-
-
-// Heritage - 1: best in role, must-have ()
-//notes: Filler: Outperforms Fortissimo until ~7 shots in.
-dimwishlist:item=4248569242&perks=1840239774,791862061,461595545,3335686050
-
-
-// Empty Vessel - 3: situational / unnecessary ()
-//notes: Filler: Worse than Wilderflight but doesn't have double fire spread, only saved by surge matching Apex.
-dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,1546637391
-
-// The Supremacy - 3: situational / unnecessary ()
-//notes: Filler: The only refreshable ranged legendary burst option in its slot.
-Dimwishlist:item=2884596447&perks=1840239774,108742626,3418782618,3891536761
-
 
